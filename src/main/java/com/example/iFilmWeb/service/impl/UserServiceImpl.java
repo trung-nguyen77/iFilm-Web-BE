@@ -1,4 +1,4 @@
-package com.example.casemd4.service;
+package com.example.casemd4.service.impl;
 
 import com.example.casemd4.model.Users;
 import com.example.casemd4.repository.IUserRepository;

@@ -1,4 +1,4 @@
-package com.example.casemd4.service;
+package com.example.casemd4.service.impl;
 
 import com.example.casemd4.model.Role;
 import com.example.casemd4.model.RoleName;

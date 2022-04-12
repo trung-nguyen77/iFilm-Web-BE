@@ -1,14 +1,15 @@
-package com.example.casemd4.service;
+package com.example.casemd4.service.impl;
 
 import com.example.casemd4.model.Category;
 import com.example.casemd4.repository.CategoryRepo;
+import com.example.casemd4.service.ICategoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
 @Service
-public class CategoryService implements ICategoryService{
+public class CategoryServiceImpl implements ICategoryService {
 
     @Autowired
     CategoryRepo categoryRepo;

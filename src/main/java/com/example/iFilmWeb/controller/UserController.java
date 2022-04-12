@@ -2,7 +2,7 @@ package com.example.casemd4.controller;
 
 import com.example.casemd4.dto.response.ResponseMessage;
 import com.example.casemd4.model.Users;
-import com.example.casemd4.service.UserServiceImpl;
+import com.example.casemd4.service.impl.UserServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

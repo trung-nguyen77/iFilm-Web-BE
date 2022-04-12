@@ -1,10 +1,11 @@
-package com.example.casemd4.service;
+package com.example.casemd4.service.impl;
 
 import com.example.casemd4.model.Comment;
 import com.example.casemd4.model.Movie;
 import com.example.casemd4.model.query.CommentCount;
 import com.example.casemd4.repository.CommentRepo;
 import com.example.casemd4.repository.MovieRepo;
+import com.example.casemd4.service.IMovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
@@ -13,7 +14,7 @@ import org.springframework.stereotype.Service;
 import java.util.*;
 
 @Service
-public class MovieService implements IMovieService{
+public class MovieServiceImpl implements IMovieService {
 
     @Autowired
     MovieRepo movieRepo;

@@ -1,15 +1,16 @@
-package com.example.casemd4.service;
+package com.example.casemd4.service.impl;
 
 import com.example.casemd4.model.Comment;
 import com.example.casemd4.model.query.CommentCount;
 import com.example.casemd4.repository.CommentRepo;
+import com.example.casemd4.service.ICommentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
 @Service
-public class CommentService implements ICommentService {
+public class CommentServiceImpl implements ICommentService {
 
     @Autowired
     CommentRepo commentRepo;
