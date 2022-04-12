@@ -1,4 +1,4 @@
-package com.example.casemd4.model.query;
+package com.example.iFilmWeb.model.query;
 
 public interface CommentCount {
      int getMovieId();

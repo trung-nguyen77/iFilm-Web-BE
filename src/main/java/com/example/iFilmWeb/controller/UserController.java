@@ -1,8 +1,8 @@
-package com.example.casemd4.controller;
+package com.example.iFilmWeb.controller;
 
-import com.example.casemd4.dto.response.ResponseMessage;
-import com.example.casemd4.model.Users;
-import com.example.casemd4.service.impl.UserServiceImpl;
+import com.example.iFilmWeb.dto.response.ResponseMessage;
+import com.example.iFilmWeb.model.Users;
+import com.example.iFilmWeb.service.impl.UserServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

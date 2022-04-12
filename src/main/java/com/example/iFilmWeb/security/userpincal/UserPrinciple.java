@@ -1,6 +1,6 @@
-package com.example.casemd4.security.userpincal;
+package com.example.iFilmWeb.security.userpincal;
 
-import com.example.casemd4.model.Users;
+import com.example.iFilmWeb.model.Users;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

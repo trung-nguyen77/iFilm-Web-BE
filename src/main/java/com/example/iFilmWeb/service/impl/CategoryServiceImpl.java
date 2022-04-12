@@ -1,8 +1,8 @@
-package com.example.casemd4.service.impl;
+package com.example.iFilmWeb.service.impl;
 
-import com.example.casemd4.model.Category;
-import com.example.casemd4.repository.CategoryRepo;
-import com.example.casemd4.service.ICategoryService;
+import com.example.iFilmWeb.model.Category;
+import com.example.iFilmWeb.repository.CategoryRepo;
+import com.example.iFilmWeb.service.ICategoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,11 +1,10 @@
-package com.example.casemd4.service.impl;
+package com.example.iFilmWeb.service.impl;
 
-import com.example.casemd4.model.Comment;
-import com.example.casemd4.model.Movie;
-import com.example.casemd4.model.query.CommentCount;
-import com.example.casemd4.repository.CommentRepo;
-import com.example.casemd4.repository.MovieRepo;
-import com.example.casemd4.service.IMovieService;
+import com.example.iFilmWeb.model.Movie;
+import com.example.iFilmWeb.model.query.CommentCount;
+import com.example.iFilmWeb.repository.CommentRepo;
+import com.example.iFilmWeb.repository.MovieRepo;
+import com.example.iFilmWeb.service.IMovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

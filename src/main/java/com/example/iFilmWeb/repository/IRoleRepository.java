@@ -1,7 +1,7 @@
-package com.example.casemd4.repository;
+package com.example.iFilmWeb.repository;
 
-import com.example.casemd4.model.Role;
-import com.example.casemd4.model.RoleName;
+import com.example.iFilmWeb.model.Role;
+import com.example.iFilmWeb.model.RoleName;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,6 +1,6 @@
-package com.example.casemd4.repository;
+package com.example.iFilmWeb.repository;
 
-import com.example.casemd4.model.Users;
+import com.example.iFilmWeb.model.Users;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

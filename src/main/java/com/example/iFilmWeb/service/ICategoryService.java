@@ -1,6 +1,6 @@
-package com.example.casemd4.service;
+package com.example.iFilmWeb.service;
 
-import com.example.casemd4.model.Category;
+import com.example.iFilmWeb.model.Category;
 
 import java.util.List;
 

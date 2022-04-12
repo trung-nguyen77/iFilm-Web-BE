@@ -1,7 +1,7 @@
-package com.example.casemd4.security.userpincal;
+package com.example.iFilmWeb.security.userpincal;
 
-import com.example.casemd4.model.Users;
-import com.example.casemd4.repository.IUserRepository;
+import com.example.iFilmWeb.model.Users;
+import com.example.iFilmWeb.repository.IUserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

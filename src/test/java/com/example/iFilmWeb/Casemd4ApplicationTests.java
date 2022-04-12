@@ -1,4 +1,4 @@
-package com.example.casemd4;
+package com.example.iFilmWeb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

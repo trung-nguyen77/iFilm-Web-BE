@@ -1,4 +1,4 @@
-package com.example.casemd4.dto.request;
+package com.example.iFilmWeb.dto.request;
 
 public class SignInForm {
     private String username;

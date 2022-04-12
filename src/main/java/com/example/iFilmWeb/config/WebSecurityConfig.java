@@ -1,8 +1,8 @@
-package com.example.casemd4.config;
+package com.example.iFilmWeb.config;
 
-import com.example.casemd4.security.jwt.JwtEntryPoint;
-import com.example.casemd4.security.jwt.JwtTokenFilter;
-import com.example.casemd4.security.userpincal.UserDetailService;
+import com.example.iFilmWeb.security.jwt.JwtEntryPoint;
+import com.example.iFilmWeb.security.jwt.JwtTokenFilter;
+import com.example.iFilmWeb.security.userpincal.UserDetailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

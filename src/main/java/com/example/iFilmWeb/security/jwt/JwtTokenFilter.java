@@ -1,6 +1,6 @@
-package com.example.casemd4.security.jwt;
+package com.example.iFilmWeb.security.jwt;
 
-import com.example.casemd4.security.userpincal.UserDetailService;
+import com.example.iFilmWeb.security.userpincal.UserDetailService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

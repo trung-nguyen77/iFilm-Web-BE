@@ -1,4 +1,4 @@
-package com.example.casemd4;
+package com.example.iFilmWeb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

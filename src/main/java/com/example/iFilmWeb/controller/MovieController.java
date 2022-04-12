@@ -1,16 +1,15 @@
-package com.example.casemd4.controller;
+package com.example.iFilmWeb.controller;
 
-import com.example.casemd4.model.Category;
-import com.example.casemd4.model.Movie;
-import com.example.casemd4.service.ICategoryService;
-import com.example.casemd4.service.ICommentService;
-import com.example.casemd4.service.IMovieService;
+import com.example.iFilmWeb.model.Category;
+import com.example.iFilmWeb.model.Movie;
+import com.example.iFilmWeb.service.ICategoryService;
+import com.example.iFilmWeb.service.ICommentService;
+import com.example.iFilmWeb.service.IMovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

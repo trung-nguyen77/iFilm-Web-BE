@@ -1,9 +1,9 @@
-package com.example.casemd4.service.impl;
+package com.example.iFilmWeb.service.impl;
 
-import com.example.casemd4.model.Comment;
-import com.example.casemd4.model.query.CommentCount;
-import com.example.casemd4.repository.CommentRepo;
-import com.example.casemd4.service.ICommentService;
+import com.example.iFilmWeb.model.Comment;
+import com.example.iFilmWeb.model.query.CommentCount;
+import com.example.iFilmWeb.repository.CommentRepo;
+import com.example.iFilmWeb.service.ICommentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

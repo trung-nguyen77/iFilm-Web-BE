@@ -1,9 +1,8 @@
-package com.example.casemd4.model;
+package com.example.iFilmWeb.model;
 
 import lombok.Data;
 
 import javax.persistence.*;
-import java.sql.Date;
 
 @Entity
 @Data

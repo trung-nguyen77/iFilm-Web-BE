@@ -1,16 +1,14 @@
-package com.example.casemd4.controller;
+package com.example.iFilmWeb.controller;
 
-import com.example.casemd4.model.Category;
-import com.example.casemd4.model.Comment;
-import com.example.casemd4.model.Movie;
-import com.example.casemd4.model.query.CommentCount;
-import com.example.casemd4.service.*;
+import com.example.iFilmWeb.model.Category;
+import com.example.iFilmWeb.model.Comment;
+import com.example.iFilmWeb.model.Movie;
+import com.example.iFilmWeb.service.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Sort;
 import org.springframework.web.bind.annotation.*;
-import sun.util.resources.cldr.te.CalendarData_te_IN;
 
 import java.util.List;
 

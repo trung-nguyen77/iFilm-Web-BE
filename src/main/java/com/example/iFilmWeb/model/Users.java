@@ -1,4 +1,4 @@
-package com.example.casemd4.model;
+package com.example.iFilmWeb.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

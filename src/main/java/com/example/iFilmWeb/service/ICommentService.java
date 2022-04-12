@@ -1,7 +1,7 @@
-package com.example.casemd4.service;
+package com.example.iFilmWeb.service;
 
-import com.example.casemd4.model.Comment;
-import com.example.casemd4.model.query.CommentCount;
+import com.example.iFilmWeb.model.Comment;
+import com.example.iFilmWeb.model.query.CommentCount;
 
 import java.util.List;
 

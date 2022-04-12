@@ -1,4 +1,4 @@
-package com.example.casemd4.dto.response;
+package com.example.iFilmWeb.dto.response;
 
 public class ResponseMessage {
     private String message;

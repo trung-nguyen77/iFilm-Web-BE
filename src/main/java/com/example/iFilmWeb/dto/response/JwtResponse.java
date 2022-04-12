@@ -1,6 +1,5 @@
-package com.example.casemd4.dto.response;
+package com.example.iFilmWeb.dto.response;
 
-import com.example.casemd4.model.Users;
 import org.springframework.security.core.GrantedAuthority;
 
 import java.util.Collection;

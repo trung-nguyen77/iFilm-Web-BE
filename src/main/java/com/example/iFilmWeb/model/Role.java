@@ -1,4 +1,4 @@
-package com.example.casemd4.model;
+package com.example.iFilmWeb.model;
 
 import org.hibernate.annotations.NaturalId;
 

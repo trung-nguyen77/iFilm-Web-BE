@@ -1,6 +1,6 @@
-package com.example.casemd4.security.jwt;
+package com.example.iFilmWeb.security.jwt;
 
-import com.example.casemd4.security.userpincal.UserPrinciple;
+import com.example.iFilmWeb.security.userpincal.UserPrinciple;
 import io.jsonwebtoken.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

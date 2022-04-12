@@ -1,8 +1,8 @@
-package com.example.casemd4.service.impl;
+package com.example.iFilmWeb.service.impl;
 
-import com.example.casemd4.model.Users;
-import com.example.casemd4.repository.IUserRepository;
-import com.example.casemd4.service.IUserService;
+import com.example.iFilmWeb.model.Users;
+import com.example.iFilmWeb.repository.IUserRepository;
+import com.example.iFilmWeb.service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
